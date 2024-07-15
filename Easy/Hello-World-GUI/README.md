@@ -2,7 +2,7 @@
 
 This is a simple GUI application using Tkinter in Python that displays a message.
 
-![GUI Screenshot](./screenshot.png)
+![GUI Screenshot](./Screenshot.png)
 
 ## Overview
 This project demonstrates the basics of creating a graphical user interface (GUI) using Python's Tkinter library.
