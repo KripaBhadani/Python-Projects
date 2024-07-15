@@ -6,7 +6,7 @@ Welcome to my Python Projects repository! This collection showcases a range of p
 Fundamental projects to demonstrate my understanding of basic Python concepts and syntax.
 ## Intermediate Projects:
 More complex projects that showcase my ability to handle larger codebases and implement more sophisticated algorithms.
-# Advanced Projects:
+## Advanced Projects:
 High-level projects that illustrate my capability to tackle challenging problems and utilize advanced Python features and technologies.
 # Purpose
 This repository is a testament to my continuous learning and practical application of Python. Each project reflects my commitment to honing my programming skills and my readiness to take on professional challenges in the tech industry.
