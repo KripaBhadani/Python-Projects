@@ -48,7 +48,4 @@ This is a simple calculator application built using Python's tkinter library. It
 - Libraries used: tkinter
 
 ## Contributors
-- Your Name (YourEmail@example.com)
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- Kripa Bhadani (kripabhadani29@gmail.com)
