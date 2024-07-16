@@ -9,7 +9,7 @@ This is a simple calculator application built using Python's tkinter library. It
 - Keyboard support for digits and operators
 
 ## Screenshots
-screenshot.jpg
+![Calculator](./Screenshot.png)
 
 ## Usage
 1. **Installation**
