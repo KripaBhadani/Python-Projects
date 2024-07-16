@@ -16,7 +16,7 @@ screenshot.jpg
    - Ensure you have Python installed.
    - Clone the repository:
      ```bash
-     [git clone https://github.com/KripaBhadani/Python-Projects/calculator.git](https://github.com/KripaBhadani/Python-Projects/tree/main/Easy/Calculator)
+     git clone https://github.com/KripaBhadani/Python-Projects/tree/main/Easy/Calculator
      ```
 
 2. **Setup**
