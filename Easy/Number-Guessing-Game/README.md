@@ -29,14 +29,7 @@ To run the game locally:
     ```bash
     python game.py
     ```
-
-## Project Structure
-number-guessing-game/
-├── game.py # Main game logic
-├── logo_art.py # ASCII art for the game logo
-├── README.md # Project documentation
-
-
+    
 ## Future Enhancements
 - **Scoring System**: Track wins and losses.
 - **GUI Version**: Develop a graphical interface.
