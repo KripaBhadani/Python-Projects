@@ -10,7 +10,7 @@ This is a simple calculator application built using Python's tkinter library. It
 
 ## Screenshots
 
-<img src="screenshots/Screenshot.png" alt="Calculator Screenshot" style="width: 300px;"/>
+<img src="Screenshot.png" alt="Calculator Screenshot" style="width: 300px;"/>
 
 ## Usage
 1. **Installation**
