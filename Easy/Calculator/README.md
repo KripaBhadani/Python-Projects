@@ -17,7 +17,7 @@ This is a simple calculator application built using Python's tkinter library. It
    - Ensure you have Python installed.
    - Clone the repository:
      ```bash
-     git clone https://github.com/KripaBhadani/Python-Projects/tree/main/Easy/Calculator
+     git clone https://github.com/KripaBhadani/Python-Projects
      ```
 
 2. **Setup**
